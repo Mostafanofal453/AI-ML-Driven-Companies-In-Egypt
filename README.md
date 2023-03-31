@@ -11,7 +11,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | Index | Company | Domain | Linkedin Contacts |
 | --- | --- | --- | --- |
 | 1                           | [ABM Egypt](http://abmegypt.net/)                            | NLP,  Social Media analytics, Search Engine optimization     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt/tree/master/Linkedin_Contacts/1.%20ABM%20Egypt) |
-| 2                                 | [Adam.ai](https://adam.ai/)                                  | NLP,  machine learning, embedded systems                     |                      |
+| 2                                 | [Adam.ai](https://adam.ai/)                                  | NLP,  machine learning, embedded systems                     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt/tree/master/Linkedin_Contacts/2.%20Adam.ai) |
 | 3 | [Advanced Intelligent   Technologies](https://advintic.com/) | Machine  Learning, Deep Learning                             |                              |
 | 4                | [Advansy ESC](https://www.advansys-esc.com/)                 | Embedded  Software, Big data, IoT                            |                             |
 | 5                     | [Affectiva](https://www.affectiva.com/)                      | Machine  learning, Deep learning, Computer vision, Speech(new project(s)) |  |
