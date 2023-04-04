@@ -10,8 +10,8 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 
 | Index | Company | Domain | Linkedin Contacts |
 | --- | --- | --- | --- |
-| 1                           | [ABM Egypt](http://abmegypt.net/)                            | NLP,  Social Media analytics, Search Engine optimization     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt/tree/master/Linkedin_Contacts/1.%20ABM%20Egypt) |
-| 2                                 | [Adam.ai](https://adam.ai/)                                  | NLP,  machine learning, embedded systems                     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt/tree/master/Linkedin_Contacts/2.%20Adam.ai) |
+| 1                           | [ABM Egypt](http://abmegypt.net/)                            | NLP,  Social Media analytics, Search Engine optimization     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/ABM%20Egypt) |
+| 2                                 | [Adam.ai](https://adam.ai/)                                  | NLP,  machine learning, embedded systems                     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Adam.ai) |
 | 3 | [Advanced Intelligent   Technologies](https://advintic.com/) | Machine  Learning, Deep Learning                             |                              |
 | 4                | [Advansy ESC](https://www.advansys-esc.com/)                 | Embedded  Software, Big data, IoT                            |                             |
 | 5                     | [Affectiva](https://www.affectiva.com/)                      | Machine  learning, Deep learning, Computer vision, Speech(new project(s)) |  |
@@ -28,7 +28,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 16      | [Bee Smart Payment Solutions](https://bee.com.eg/en/)        | ML,  Big Data                                                |                                                 |
 | 17                            | [blnk.ai](https://www.blnk.ai/)                              | Machine  Learning                                            |                                             |
 | 18                   | [BotCommander](https://botcommander.io/)                     | AI,  Chatbots                                                |                                                 |
-| 19                          | [Botitapp](https://botitapp.com/)                            | Data  Science, NLP                                           | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/19.%20Botit) |
+| 19                          | [Botitapp](https://botitapp.com/)                            | Data  Science, NLP                                           | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Botit) |
 | 20                            | [Botme](https://www.botme.com/)                              | Chatbots,  NLP                                               |                                                |
 | 21                 | [Brightskies](https://brightskiesinc.com/)                   | Machine  Learning, Autonomous Driving                        |                         |
 | 22                    | [Cammedar Health](http://cammedar.com/)                      | Machine  Learning                                            |                                             |
