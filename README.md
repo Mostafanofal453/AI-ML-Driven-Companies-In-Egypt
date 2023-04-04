@@ -35,7 +35,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 23                      | [Cassbana](https://www.cassbana.com/)                        | Machine  Learning, Deep Learning                             |                              |
 | 24                        | [Cequens](https://www.cequens.com/)                          | Predictive  models, Machine Learning, Chatbots               |                |
 | 25                        | [Cloud AI-D](https://www.conix.ai/)                          | Artificial  Intelligence - AI                                |                                 |
-| 26                          | [Cognitev](https://cognitev.com/)                            | ML,  DL, Recommendation systems, IR (Information Retrieval), NLP (Natural -  Language Processing) |  |
+| 26                          | [Cognitev](https://cognitev.com/)                            | ML,  DL, Recommendation systems, IR (Information Retrieval), NLP (Natural -  Language Processing) | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Cognitev) |
 | 27                         | [Comiot](https://www.com-iot.com/)                           | Iot,  Computer vision, ML                                    |                                     |
 | 28                  | [Contalents llc](https://contalents.com/)                    | Data  Solutions, Digital Transformation and Data Annotation  |   |
 | 29                  | [Converted.in](https://www.converted.in/)                    | Machine  Learning                                            |                                             |
