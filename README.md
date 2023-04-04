@@ -28,7 +28,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 16      | [Bee Smart Payment Solutions](https://bee.com.eg/en/)        | ML,  Big Data                                                |                                                 |
 | 17                            | [blnk.ai](https://www.blnk.ai/)                              | Machine  Learning                                            |                                             |
 | 18                   | [BotCommander](https://botcommander.io/)                     | AI,  Chatbots                                                |                                                 |
-| 19                          | [Botitapp](https://botitapp.com/)                            | Data  Science, NLP                                           |                                            |
+| 19                          | [Botitapp](https://botitapp.com/)                            | Data  Science, NLP                                           | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/19.%20Botit) |
 | 20                            | [Botme](https://www.botme.com/)                              | Chatbots,  NLP                                               |                                                |
 | 21                 | [Brightskies](https://brightskiesinc.com/)                   | Machine  Learning, Autonomous Driving                        |                         |
 | 22                    | [Cammedar Health](http://cammedar.com/)                      | Machine  Learning                                            |                                             |
