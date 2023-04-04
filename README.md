@@ -39,8 +39,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 27                         | [Comiot](https://www.com-iot.com/)                           | Iot,  Computer vision, ML                                    |                                     |
 | 28                  | [Contalents llc](https://contalents.com/)                    | Data  Solutions, Digital Transformation and Data Annotation  |   |
 | 29                  | [Converted.in](https://www.converted.in/)                    | Machine  Learning                                            |                                             |
-| 30           | [Crowd Analyzer](https://www.crowdanalyzer.com/)             | Big  data, Machine learning, Social Media Analysis, Arabic in Social Media  Analytics |  |
-| 31               | [Crowd Analyzer](https://crowdanalyzer.com/)                 | AI,  Machine Learning, NLP                                   |                                    |
+| 30           | [Crowd Analyzer](https://www.crowdanalyzer.com/)             | Big  data, Machine learning, Social Media Analysis, Arabic in Social Media  Analytics | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Crowd%20Analyzer) |
 | 32            | [Cyshield](https://cyshield.bamboohr.com/jobs/)              | Data  Science, NLP                                           |                                            |
 | 33                 | [Data Gear BI](http://www.datagearbi.com/)                   | Data  Mining, Business Intelligence(BI)                      |                       |
 | 34                 | [Dataplusme](https://www.dataplusme.com/)                    | Data  Analytics, Data Science, Big Data Analytics, Data visualization |  |
