@@ -10,8 +10,8 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 
 | Index | Company | Domain | Linkedin Contacts |
 | --- | --- | --- | --- |
-| 1                           | [ABM Egypt](http://abmegypt.net/)                            | NLP,  Social Media analytics, Search Engine optimization     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/ABM%20Egypt) |
-| 2                                 | [Adam.ai](https://adam.ai/)                                  | NLP,  machine learning, embedded systems                     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Adam.ai) |
+| 1                           | [ABM Egypt](http://abmegypt.net/)                            | NLP,  Social Media analytics, Search Engine optimization     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/ABM%20Egypt/README.md) |
+| 2                                 | [Adam.ai](https://adam.ai/)                                  | NLP,  machine learning, embedded systems                     | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Adam.ai/README.md) |
 | 3 | [Advanced Intelligent   Technologies](https://advintic.com/) | Machine  Learning, Deep Learning                             |                              |
 | 4                | [Advansy ESC](https://www.advansys-esc.com/)                 | Embedded  Software, Big data, IoT                            |                             |
 | 5                     | [Affectiva](https://www.affectiva.com/)                      | Machine  learning, Deep learning, Computer vision, Speech(new project(s)) |  |
@@ -28,18 +28,18 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 16      | [Bee Smart Payment Solutions](https://bee.com.eg/en/)        | ML,  Big Data                                                |                                                 |
 | 17                            | [blnk.ai](https://www.blnk.ai/)                              | Machine  Learning                                            |                                             |
 | 18                   | [BotCommander](https://botcommander.io/)                     | AI,  Chatbots                                                |                                                 |
-| 19                          | [Botitapp](https://botitapp.com/)                            | Data  Science, NLP                                           | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Botit) |
-| 20                            | [Botme](https://www.botme.com/)                              | Chatbots,  NLP                                               | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Botme) |
+| 19                          | [Botitapp](https://botitapp.com/)                            | Data  Science, NLP                                           | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Botit/README.md) |
+| 20                            | [Botme](https://www.botme.com/)                              | Chatbots,  NLP                                               | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Botme/README.md) |
 | 21                 | [Brightskies](https://brightskiesinc.com/)                   | Machine  Learning, Autonomous Driving                        |                         |
 | 22                    | [Cammedar Health](http://cammedar.com/)                      | Machine  Learning                                            |                                             |
 | 23                      | [Cassbana](https://www.cassbana.com/)                        | Machine  Learning, Deep Learning                             |                              |
 | 24                        | [Cequens](https://www.cequens.com/)                          | Predictive  models, Machine Learning, Chatbots               |                |
 | 25                        | [Cloud AI-D](https://www.conix.ai/)                          | Artificial  Intelligence - AI                                |                                 |
-| 26                          | [Cognitev](https://cognitev.com/)                            | ML,  DL, Recommendation systems, IR (Information Retrieval), NLP (Natural -  Language Processing) | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Cognitev) |
+| 26                          | [Cognitev](https://cognitev.com/)                            | ML,  DL, Recommendation systems, IR (Information Retrieval), NLP (Natural -  Language Processing) | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Cognitev/README.md) |
 | 27                         | [Comiot](https://www.com-iot.com/)                           | Iot,  Computer vision, ML                                    |                                     |
 | 28                  | [Contalents llc](https://contalents.com/)                    | Data  Solutions, Digital Transformation and Data Annotation  |   |
 | 29                  | [Converted.in](https://www.converted.in/)                    | Machine  Learning                                            |                                             |
-| 30           | [Crowd Analyzer](https://www.crowdanalyzer.com/)             | Big  data, Machine learning, Social Media Analysis, Arabic in Social Media  Analytics | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/tree/master/Linkedin_Contacts/Crowd%20Analyzer) |
+| 30           | [Crowd Analyzer](https://www.crowdanalyzer.com/)             | Big  data, Machine learning, Social Media Analysis, Arabic in Social Media  Analytics | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Crowd%20Analyzer/README.md) |
 | 32            | [Cyshield](https://cyshield.bamboohr.com/jobs/)              | Data  Science, NLP                                           |                                            |
 | 33                 | [Data Gear BI](http://www.datagearbi.com/)                   | Data  Mining, Business Intelligence(BI)                      |                       |
 | 34                 | [Dataplusme](https://www.dataplusme.com/)                    | Data  Analytics, Data Science, Big Data Analytics, Data visualization |  |
@@ -135,7 +135,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 124 | [Wakeb Data](http://wakeb.tech/) | Business  Intelligence, Data Analysis, Artificial Intelligence |  |
 | 125 | [Wego](https://eg.wego.com/en) | Data  analysis, machine learning, recommendation systems |  |
 | 126 | [Werpx](https://werpx.com/) | Artificial  Intelligence - AI |  |
-| 127 | [WideBot](https://widebot.net/platform/) | Chatbots,  NLP |  |
+| 127 | [WideBot](https://widebot.net/platform/) | Chatbots,  NLP | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Widebot/README.md) |
 | 128 | [Wuzzuf](https://wuzzuf.net/) | Machine  learning, NLP(new project(s)), Search engines, Recommendation/Ranking systems  and information retrieval |  |
 | 129 | [Xtrava](http://xtrava.co/) | Machine  learning, Deep learning, Signal processing |  |
 | 130 | [Yaoota!](https://yaoota.com/en-eg/) | Search  engine, Big data, ML, NLP |  |
