@@ -151,3 +151,45 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 
 ## Credits
 This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
+
+## Companies found in previous experience section
+
+- SilverKey Technologies 
+- Applied Innovation Center (AIC) - MCIT 
+- TMentors
+- AMIT Learning
+- Ministry of Communications and Information Technology (MCIT)
+- Applied Innovation Center - MCIT
+- Webville
+- DeepSource GmbH
+- Technocolabs software
+- COM-IoT Technologies
+- ONE Lab Egypt
+- infraLayer | HIGH PERFORMANCE COMPUTING 
+- Hansa Robotics GmbH
+- [precision.ai](http://precision.ai/)
+- BlueCloud Technologies
+- Cloud Niners
+- Benchmark Creative Labs
+- Incorta
+- Capiter
+- Extend | The Ad Network
+- _VOIS
+- Money Fellows
+- INTDV
+- Kemet Artificial Intelligence
+- Lionpoint group
+- ONE LOGIC
+- National Bank of Egypt
+- Velents | ڤيلنتس 
+- [Rosalyn.ai](http://rosalyn.ai/)
+- AISTREAMING
+- Orange Labs Egypt
+- Taya IT
+- arabot
+- RMG Networks
+- CONNECTIV
+- Next Academy Egypt
+- HCILab (Human Computer Interaction)
+- Zummit Infolabs
+- Nahdet Misr AI
