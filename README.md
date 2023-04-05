@@ -51,7 +51,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 40                        | [Digisay](https://www.digisay.com/)                          | Machine  Learning, Deep Learning                             |                              |
 | 41        | [DilenyTech](https://www.dilenytech.com/home-index)          | AI,  Computer Vision, Medical                                |                                 |
 | 42                              | [DLC](https://www.dlctt.com/)                                | Recommendation  systems, NLP, Chatbots                       |                        |
-| 43                              | [DXWand](https://dxwand.com/)                                | Machine  Learning, text and speech analytics, NLP, analytics services |  |
+| 43                              | [DXWand](https://dxwand.com/)                                | Machine  Learning, text and speech analytics, NLP, analytics services | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/DXwand/README.md) |
 | 44                          | [EGROBOTS](https://egrobots.com/)                            | Artificial  Intelligence - AI                                |                                 |
 | 45                       | [El menus](https://www.elmenus.com/)                         | Recommendation  systems, NLP                                 |                                  |
 | 46                         | [Elves](https://www.elvesapp.com/)                           | ML,  Information retrieval, chatbots, NLP                    |                     |
