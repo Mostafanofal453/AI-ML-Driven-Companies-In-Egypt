@@ -80,7 +80,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 69                             | [Lyra](https://www.lyrise.ai/)                               | Machine  Learning                                            |                                             |
 | 70    | [Mars Consultation](https://www.mars-consultation.com/)      | AI,  Cloud                                                   |                                                    |
 | 71                         | [Mawdoo3](https://ai.mawdoo3.com/)                           | Data  Science, NLP                                           |                                            |
-| 72                            | [Mendel.ai](https://mendel.ai/)                              | Artificial  Intelligence in Medicine, Machine learning, OCR, NLP |  |
+| 72                            | [Mendel.ai](https://mendel.ai/)                              | Artificial  Intelligence in Medicine, Machine learning, OCR, NLP | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Mendel.ai/README.md) |
 | 73                               | [MerQ](https://www.merq.ai/)                                 | Chatbots,  NLP                                               |                                                |
 | 74 | [Microsoft   ATLc](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | ML,  DL, NLP, OCR, Speech, Search engines(Bing team)         |          |
 | 75                           | [MobiDev](https://mobidev.biz/)                              | AI  apps                                                     |                                                      |
