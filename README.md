@@ -53,7 +53,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 42                              | [DLC](https://www.dlctt.com/)                                | Recommendation  systems, NLP, Chatbots                       |                        |
 | 43                              | [DXWand](https://dxwand.com/)                                | Machine  Learning, text and speech analytics, NLP, analytics services | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/DXwand/README.md) |
 | 44                          | [EGROBOTS](https://egrobots.com/)                            | Artificial  Intelligence - AI                                |                                 |
-| 45                       | [El menus](https://www.elmenus.com/)                         | Recommendation  systems, NLP                                 |                                  |
+| 45                       | [El menus](https://www.elmenus.com/)                         | Recommendation  systems, NLP                                 | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Elmenus/README.md) |
 | 46                         | [Elves](https://www.elvesapp.com/)                           | ML,  Information retrieval, chatbots, NLP                    |                     |
 | 47                       | [Etisalat](https://www.etisalat.eg/)                         | Machine  Learning, Data Science                              |                               |
 | 48 | [Fixed   Solutions](https://wuzzuf.net/jobs/careers/Fixed-Solutions-Egypt-18523) | Data  Science                                                |                                                 |
@@ -159,7 +159,6 @@ This repository is nothing but a humble continuation of the [great work](https:/
 - TMentors
 - AMIT Learning
 - Ministry of Communications and Information Technology (MCIT)
-- Applied Innovation Center - MCIT
 - Webville
 - DeepSource GmbH
 - Technocolabs software
