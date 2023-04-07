@@ -18,6 +18,7 @@
 | [Osama Mahmoud](https://www.linkedin.com/in/osama-mahmoud-2b2441201/) | Senior Acquisitions & Expansions Specialist            |
 | [Waheed Abbas](https://www.linkedin.com/in/waheedabbas/)     | Data Scientist                                         |
 | [mohamed abdel rhman](https://www.linkedin.com/in/mohamed-abdel-rhman-067a0b102/) | Past: Data Team Lead                                   |
+| [Mahmoud Abdrabo](https://www.linkedin.com/in/mahmoudabdrabo/) | Past: Data Science Advisor                             |
 | [Sara Tariq](https://www.linkedin.com/in/sara-tariq-478a03188/) | Past: Human Resources Administrator                    |
 | [Salma Samy](https://www.linkedin.com/in/salma-samy-0b0683163/) | Past: Technical Talent Acquisition Specialist          |
 | [Ahmed Abozeid](https://www.linkedin.com/in/ahmed-abozeid-a77b7634/) | Past: Senior Data Analyst                              |
