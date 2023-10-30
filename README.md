@@ -15,7 +15,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | 3 | [Advanced Intelligent   Technologies](https://advintic.com/) | Machine  Learning, Deep Learning                             |                              |
 | 4                | [Advansy ESC](https://www.advansys-esc.com/)                 | Embedded  Software, Big data, IoT                            |                             |
 | 5                     | [Affectiva](https://www.affectiva.com/)                      | Machine  learning, Deep learning, Computer vision, Speech(new project(s)) |  |
-| 6                             | [Agolo](https://www.agolo.com/)                              | NLP,  ML, DL                                                 |                                                  |
+| 6                             | [Agolo](https://www.agolo.com/)                              | NLP,  ML, DL                                                 | [Link](https://github.com/Mostafanofal453/AI-ML-Driven-Companies-In-Egypt-with-Contacts/blob/master/Linkedin_Contacts/Agolo/README.md) |
 | 7          | [Aimtechnologies](https://www.aimtechnologies.co/)           | Data  Science, Machine Learning                              |                               |
 | 8                         | [Arqamfc](https://www.arqamfc.com/)                          | Analytics                                                    |                                                     |
 | 9                     | [Asas Alqarar](http://asasalqarar.com/)                      | Machine  Learning, Deep Learning                             |                              |
@@ -192,3 +192,8 @@ This repository is nothing but a humble continuation of the [great work](https:/
 - HCILab (Human Computer Interaction)
 - Zummit Infolabs
 - Nahdet Misr AI
+- Dataplus Information Systems
+- Trendak
+- [Qaren](https://www.linkedin.com/company/qareneg/)
+- [Silverbullet](https://www.linkedin.com/company/wearesilverbullet/)
+- [bunq](https://www.linkedin.com/company/bunq/)
